@@ -7,6 +7,7 @@
 * pinch of salt
 * pinch of paprika
 * pinch of pepper 
+* basil
 
 \## instructions
 
