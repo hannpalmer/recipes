@@ -6,6 +6,7 @@
 * 1x lime juice
 * pinch of salt
 * pinch of paprika
+* pinch of pepper 
 
 \## instructions
 
