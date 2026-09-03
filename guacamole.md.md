@@ -14,6 +14,6 @@
 * season
 * eat with lots of chips and bread
 * please serve in a bowl
-
+* wash your hands before eating
 
 
