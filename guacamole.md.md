@@ -4,7 +4,7 @@
 
 * avocado
 * lime
-* salt
+* salti
 
 \## instructions
 
