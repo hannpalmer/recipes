@@ -2,10 +2,10 @@
 
 \## ingredients
 
-* avocado
-* lime
-* salt
-* paprika
+* 3x avocado
+* 1x lime juice
+* pinch of salt
+* pinch of paprika
 
 \## instructions
 
