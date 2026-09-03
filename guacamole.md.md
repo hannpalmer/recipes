@@ -13,4 +13,7 @@
 * mash avacados
 * season
 * eat with lots of chips and bread
+* please serve in a bowl
+
+
 
