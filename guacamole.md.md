@@ -12,9 +12,9 @@
 
 * mash avacados
 * season
-<<<<<<< HEAD
 * eat
 * please serve in a bowl
 * eat with bread
-* eat with chips
+* eat with lots of chips
+
 
