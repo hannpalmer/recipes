@@ -12,5 +12,5 @@
 
 * mash avacados
 * season
-* eat with chips
+* eat with lots of chips
 
