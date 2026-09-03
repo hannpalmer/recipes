@@ -13,4 +13,5 @@
 * mash avacados
 * season
 * eat
-
+* please serve in a bowl
+* eat with bread
