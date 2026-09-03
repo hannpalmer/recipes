@@ -4,7 +4,12 @@
 
 * avocado
 * lime
-* salti
+* salt
+* paprika
 
 \## instructions
+
+* mash avacados
+* season
+* eat
 
